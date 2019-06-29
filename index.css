@@ -1,0 +1,97 @@
+/*PAGE1*/
+.page1{
+    background: url("image/fsbgd.jfif")  no-repeat center;
+    background-size:cover;
+    position: relative;
+
+}
+.page1>img:nth-of-type(1){width: 100%;}
+.page1>img:nth-of-type(2){width: 100%;
+    position: absolute;
+    top:50%;
+    margin-top: -2.34rem;
+}
+.page1>img:nth-of-type(3){width: 100%;
+    position: absolute;
+    bottom:0;}
+
+/*PAGE2*/
+.page2{
+    background: url("image/gx.jfif")  no-repeat center;
+    background-size:cover;
+    position: relative;
+}
+.page2>img:nth-of-type(1){width: 100%;}
+.page2>img:nth-of-type(2){width: 100%;
+    position: absolute;
+    top:50%;
+    margin-top: -2.34rem;}
+.page2>img:nth-of-type(3){width: 100%;
+    position: absolute;
+    bottom:0;}
+
+/*PAGE3*/
+.page3{
+    background: url("image/tk.jfif")  no-repeat center;
+    background-size:cover;
+    position: relative;
+}
+.page3>img:nth-of-type(1){width: 100%;}
+.page3>img:nth-of-type(2){width: 100%;
+    position: absolute;
+    top:50%;
+    margin-top: -2.34rem;}
+.page3>img:nth-of-type(3){width: 100%;
+    position: absolute;
+    bottom:0;}
+
+/*PAGE4*/
+.page4{
+    background-color: #630e00;
+    position: relative;
+}
+.text{width:100%;
+    height:4.68rem;
+    position: absolute;
+    top:50%;
+    margin-top: -2.0rem;
+    margin-left: 8%;}
+.page4 p{text-align:center;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #ff2300;
+    -webkit-text-stroke: 0.02rem #fff300;}
+.page4>img:nth-of-type(1){width: 100%;}
+.page4>img:nth-of-type(2){width: 100%;
+    position: absolute;
+    bottom:0;}
+/*PAGE5*/
+.page5{
+    background: url("image/hbsiqj.jpg")  no-repeat center;
+    background-size:cover;
+    position: relative;
+}
+.page5>img:nth-of-type(1){width: 100%;}
+.page5>img:nth-of-type(2){width: 100%;
+    position: absolute;
+    bottom:0;}
+.page5 .zsp{
+    width: 100%;
+    height:4.68rem;
+    position: absolute;
+    top:50%;
+    margin-top: -2.0rem;
+}
+.page5 .zsp p{
+    text-align:center;
+    font-size: 0.5rem;
+    font-weight: bold;
+    color: #ff2300;
+    -webkit-text-stroke: 0.02rem #fff300;
+}
+.page5 .zsp .video iframe{
+    margin-top: 0.2rem;
+    width: 80%;
+    position: absolute;
+    left: 10%;
+}
